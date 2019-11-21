@@ -1,4 +1,3 @@
-![mahua](mahua-logo.jpg)
 ##实验四 字符串
 ##一、实验目的
 
